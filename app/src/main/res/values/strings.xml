@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">GamePiedraPapelTijera</string>
+    <string name="ppt">ppt</string>
+    <string name="txtPiedra">Piedra</string>
+    <string name="txtPapel">Papel</string>
+    <string name="txtTijera">Tijera</string>
+    <string name="piedrapapeltijera">piedrapapeltijera</string>
 </resources>
